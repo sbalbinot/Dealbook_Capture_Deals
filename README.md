@@ -21,6 +21,6 @@ O segundo arquivo terá os seguintes campos:
 1. Deal URL
 2. Data da Captura
 3. Para cada Investor, capturar:
-    1. Investor (nome do investidor)
-    2. Investor URL
+    a. Investor (nome do investidor)
+    b. Investor URL
   ***Obs.: os campos 1 e 2 deversão ser repetidos para cada ocorrência dos campos 3.a e 3.b***
