@@ -23,4 +23,5 @@ Capture deals data from Dealbook site.
  3. Para cada Investor, captura:
      1. Investor (nome do investidor)
      2. Investor URL
+     
 ***Obs.: os campos 1 e 2 deverão ser repetidos para cada ocorrência dos campos 3.i e 3.ii***
